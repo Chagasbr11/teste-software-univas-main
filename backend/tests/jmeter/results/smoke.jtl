@@ -1,0 +1,401 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1763506649218,28,HTTP Request,200,OK,API 1-1,text,true,,996,122,1,2,http://localhost:3001/health,24,0,17
+1763506649218,28,tasks,200,OK,API 2-1,text,true,,943,196,1,2,http://host.docker.internal:3001/api/tasks,24,0,17
+1763506649389,7,HTTP Request,200,OK,API 1-2,text,true,,996,122,1,1,http://localhost:3001/health,7,0,2
+1763506649446,9,tasks,200,OK,API 2-2,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,9,0,2
+1763506649686,5,HTTP Request,200,OK,API 1-3,text,true,,996,122,1,1,http://localhost:3001/health,5,0,1
+1763506649744,10,tasks,200,OK,API 2-3,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,10,0,1
+1763506649988,11,HTTP Request,200,OK,API 1-4,text,true,,996,122,1,1,http://localhost:3001/health,11,0,2
+1763506650044,10,tasks,200,OK,API 2-4,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,10,0,2
+1763506650287,7,HTTP Request,200,OK,API 1-5,text,true,,996,122,1,1,http://localhost:3001/health,7,0,2
+1763506650343,9,tasks,200,OK,API 2-5,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,9,0,1
+1763506650587,6,HTTP Request,200,OK,API 1-6,text,true,,996,122,1,1,http://localhost:3001/health,6,0,2
+1763506650644,9,tasks,200,OK,API 2-6,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,9,0,2
+1763506650887,8,HTTP Request,200,OK,API 1-7,text,true,,996,122,1,1,http://localhost:3001/health,8,0,2
+1763506650944,11,tasks,200,OK,API 2-7,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,11,0,2
+1763506651187,18,HTTP Request,200,OK,API 1-8,text,true,,996,122,1,1,http://localhost:3001/health,18,0,6
+1763506651243,13,tasks,200,OK,API 2-8,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,13,0,2
+1763506651485,14,HTTP Request,200,OK,API 1-9,text,true,,996,122,1,1,http://localhost:3001/health,14,0,1
+1763506651543,10,tasks,200,OK,API 2-9,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,10,0,1
+1763506651784,6,HTTP Request,200,OK,API 1-10,text,true,,996,122,1,1,http://localhost:3001/health,6,0,2
+1763506651842,9,tasks,200,OK,API 2-10,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,9,0,1
+1763506652086,9,HTTP Request,200,OK,API 1-11,text,true,,996,122,1,1,http://localhost:3001/health,9,0,1
+1763506652143,12,tasks,200,OK,API 2-11,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,12,0,2
+1763506652386,10,HTTP Request,200,OK,API 1-12,text,true,,996,122,1,1,http://localhost:3001/health,10,0,2
+1763506652444,6,tasks,200,OK,API 2-12,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,6,0,1
+1763506652685,7,HTTP Request,200,OK,API 1-13,text,true,,996,122,1,1,http://localhost:3001/health,7,0,2
+1763506652744,16,tasks,200,OK,API 2-13,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,16,0,5
+1763506652985,6,HTTP Request,200,OK,API 1-14,text,true,,996,122,1,1,http://localhost:3001/health,6,0,2
+1763506653044,10,tasks,200,OK,API 2-14,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,10,0,2
+1763506653287,6,HTTP Request,200,OK,API 1-15,text,true,,996,122,1,1,http://localhost:3001/health,6,0,1
+1763506653342,13,tasks,200,OK,API 2-15,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,13,0,2
+1763506653586,7,HTTP Request,200,OK,API 1-16,text,true,,996,122,1,1,http://localhost:3001/health,6,0,2
+1763506653645,12,tasks,200,OK,API 2-16,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,12,0,2
+1763506653885,8,HTTP Request,200,OK,API 1-17,text,true,,996,122,1,1,http://localhost:3001/health,8,0,2
+1763506653944,12,tasks,200,OK,API 2-17,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,12,0,2
+1763506654184,5,HTTP Request,200,OK,API 1-18,text,true,,996,122,1,1,http://localhost:3001/health,5,0,1
+1763506654242,10,tasks,200,OK,API 2-18,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,9,0,2
+1763506654483,5,HTTP Request,200,OK,API 1-19,text,true,,996,122,1,1,http://localhost:3001/health,5,0,1
+1763506654541,20,tasks,200,OK,API 2-19,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,20,0,2
+1763506654783,6,HTTP Request,200,OK,API 1-20,text,true,,996,122,1,1,http://localhost:3001/health,6,0,1
+1763506654844,7,tasks,200,OK,API 2-20,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,7,0,1
+1763506655084,13,HTTP Request,200,OK,API 1-21,text,true,,996,122,1,1,http://localhost:3001/health,12,0,2
+1763506655143,12,tasks,200,OK,API 2-21,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,12,0,1
+1763506655382,9,HTTP Request,200,OK,API 1-22,text,true,,996,122,1,1,http://localhost:3001/health,9,0,2
+1763506655441,9,tasks,200,OK,API 2-22,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,9,0,1
+1763506655684,12,HTTP Request,200,OK,API 1-23,text,true,,996,122,1,1,http://localhost:3001/health,12,0,3
+1763506655742,11,tasks,200,OK,API 2-23,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,11,0,1
+1763506655982,10,HTTP Request,200,OK,API 1-24,text,true,,996,122,1,1,http://localhost:3001/health,10,0,2
+1763506656042,12,tasks,200,OK,API 2-24,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,12,0,2
+1763506656282,18,HTTP Request,200,OK,API 1-25,text,true,,996,122,1,1,http://localhost:3001/health,18,0,1
+1763506656342,22,tasks,200,OK,API 2-25,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,21,0,1
+1763506656582,9,HTTP Request,200,OK,API 1-26,text,true,,996,122,1,1,http://localhost:3001/health,9,0,2
+1763506656644,15,tasks,200,OK,API 2-26,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,15,0,2
+1763506656883,7,HTTP Request,200,OK,API 1-27,text,true,,996,122,1,1,http://localhost:3001/health,7,0,1
+1763506656943,12,tasks,200,OK,API 2-27,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,12,0,2
+1763506657182,7,HTTP Request,200,OK,API 1-28,text,true,,996,122,1,1,http://localhost:3001/health,7,0,1
+1763506657241,10,tasks,200,OK,API 2-28,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,10,0,1
+1763506657482,9,HTTP Request,200,OK,API 1-29,text,true,,996,122,1,1,http://localhost:3001/health,9,0,1
+1763506657541,12,tasks,200,OK,API 2-29,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,12,0,2
+1763506657780,8,HTTP Request,200,OK,API 1-30,text,true,,996,122,1,1,http://localhost:3001/health,8,0,2
+1763506657842,11,tasks,200,OK,API 2-30,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,11,0,1
+1763506658081,9,HTTP Request,200,OK,API 1-31,text,true,,996,122,1,1,http://localhost:3001/health,9,0,1
+1763506658142,12,tasks,200,OK,API 2-31,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,12,0,2
+1763506658382,5,HTTP Request,200,OK,API 1-32,text,true,,996,122,1,1,http://localhost:3001/health,5,0,1
+1763506658441,12,tasks,200,OK,API 2-32,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,12,0,2
+1763506658682,7,HTTP Request,200,OK,API 1-33,text,true,,996,122,1,1,http://localhost:3001/health,7,0,1
+1763506658742,12,tasks,200,OK,API 2-33,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,12,0,1
+1763506658982,7,HTTP Request,200,OK,API 1-34,text,true,,996,122,1,1,http://localhost:3001/health,7,0,1
+1763506659041,10,tasks,200,OK,API 2-34,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,10,0,2
+1763506659282,8,HTTP Request,200,OK,API 1-35,text,true,,996,122,1,1,http://localhost:3001/health,8,0,2
+1763506659342,14,tasks,200,OK,API 2-35,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,14,0,2
+1763506659585,10,HTTP Request,200,OK,API 1-36,text,true,,996,122,1,1,http://localhost:3001/health,10,0,3
+1763506659643,11,tasks,200,OK,API 2-36,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,11,0,2
+1763506659883,14,HTTP Request,200,OK,API 1-37,text,true,,996,122,1,1,http://localhost:3001/health,13,0,1
+1763506659943,7,tasks,200,OK,API 2-37,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,7,0,1
+1763506660184,9,HTTP Request,200,OK,API 1-38,text,true,,996,122,1,1,http://localhost:3001/health,9,0,2
+1763506660244,10,tasks,200,OK,API 2-38,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,10,0,2
+1763506660485,8,HTTP Request,200,OK,API 1-39,text,true,,996,122,1,1,http://localhost:3001/health,8,0,2
+1763506660543,9,tasks,200,OK,API 2-39,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,9,0,1
+1763506660785,8,HTTP Request,200,OK,API 1-40,text,true,,996,122,1,1,http://localhost:3001/health,8,0,1
+1763506660844,10,tasks,200,OK,API 2-40,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,10,0,2
+1763506661084,7,HTTP Request,200,OK,API 1-41,text,true,,996,122,1,1,http://localhost:3001/health,7,0,2
+1763506661143,11,tasks,200,OK,API 2-41,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,11,0,2
+1763506661384,7,HTTP Request,200,OK,API 1-42,text,true,,996,122,1,1,http://localhost:3001/health,7,0,2
+1763506661443,8,tasks,200,OK,API 2-42,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,8,0,2
+1763506661683,6,HTTP Request,200,OK,API 1-43,text,true,,996,122,1,1,http://localhost:3001/health,6,0,1
+1763506661744,9,tasks,200,OK,API 2-43,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,9,0,1
+1763506661983,7,HTTP Request,200,OK,API 1-44,text,true,,996,122,1,1,http://localhost:3001/health,7,0,1
+1763506662041,12,tasks,200,OK,API 2-44,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,12,0,2
+1763506662284,7,HTTP Request,200,OK,API 1-45,text,true,,996,122,1,1,http://localhost:3001/health,7,0,2
+1763506662343,12,tasks,200,OK,API 2-45,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,12,0,2
+1763506662583,7,HTTP Request,200,OK,API 1-46,text,true,,996,122,1,1,http://localhost:3001/health,7,0,2
+1763506662643,8,tasks,200,OK,API 2-46,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,8,0,1
+1763506662882,9,HTTP Request,200,OK,API 1-47,text,true,,996,122,1,1,http://localhost:3001/health,9,0,2
+1763506662942,8,tasks,200,OK,API 2-47,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,8,0,1
+1763506663183,6,HTTP Request,200,OK,API 1-48,text,true,,996,122,1,1,http://localhost:3001/health,6,0,1
+1763506663243,21,tasks,200,OK,API 2-48,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,21,0,1
+1763506663484,9,HTTP Request,200,OK,API 1-49,text,true,,996,122,1,1,http://localhost:3001/health,9,0,2
+1763506663543,32,tasks,200,OK,API 2-49,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,32,0,2
+1763506663787,7,HTTP Request,200,OK,API 1-50,text,true,,996,122,1,1,http://localhost:3001/health,7,0,2
+1763506663843,10,tasks,200,OK,API 2-50,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,10,0,2
+1763506664083,17,HTTP Request,200,OK,API 1-51,text,true,,996,122,1,1,http://localhost:3001/health,17,0,1
+1763506664141,7,tasks,200,OK,API 2-51,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,7,0,0
+1763506664384,9,HTTP Request,200,OK,API 1-52,text,true,,996,122,1,1,http://localhost:3001/health,9,0,2
+1763506664443,10,tasks,200,OK,API 2-52,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,10,0,2
+1763506664683,9,HTTP Request,200,OK,API 1-53,text,true,,996,122,1,1,http://localhost:3001/health,9,0,2
+1763506664743,10,tasks,200,OK,API 2-53,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,10,0,2
+1763506664984,18,HTTP Request,200,OK,API 1-54,text,true,,996,122,1,1,http://localhost:3001/health,18,0,2
+1763506665043,11,tasks,200,OK,API 2-54,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,11,0,2
+1763506665286,10,HTTP Request,200,OK,API 1-55,text,true,,996,122,1,1,http://localhost:3001/health,10,0,3
+1763506665343,13,tasks,200,OK,API 2-55,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,12,0,3
+1763506665585,8,HTTP Request,200,OK,API 1-56,text,true,,996,122,1,1,http://localhost:3001/health,8,0,2
+1763506665643,10,tasks,200,OK,API 2-56,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,10,0,1
+1763506665883,10,HTTP Request,200,OK,API 1-57,text,true,,996,122,1,1,http://localhost:3001/health,9,0,2
+1763506665944,9,tasks,200,OK,API 2-57,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,9,0,1
+1763506666184,8,HTTP Request,200,OK,API 1-58,text,true,,996,122,1,1,http://localhost:3001/health,8,0,1
+1763506666241,9,tasks,200,OK,API 2-58,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,9,0,1
+1763506666484,9,HTTP Request,200,OK,API 1-59,text,true,,996,122,1,1,http://localhost:3001/health,9,0,2
+1763506666545,10,tasks,200,OK,API 2-59,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,10,0,2
+1763506666783,7,HTTP Request,200,OK,API 1-60,text,true,,996,122,1,1,http://localhost:3001/health,7,0,1
+1763506666841,10,tasks,200,OK,API 2-60,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,10,0,2
+1763506667083,10,HTTP Request,200,OK,API 1-61,text,true,,996,122,1,1,http://localhost:3001/health,10,0,5
+1763506667142,10,tasks,200,OK,API 2-61,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,10,0,1
+1763506667384,11,HTTP Request,200,OK,API 1-62,text,true,,996,122,1,1,http://localhost:3001/health,11,0,2
+1763506667444,12,tasks,200,OK,API 2-62,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,12,0,3
+1763506667682,5,HTTP Request,200,OK,API 1-63,text,true,,996,122,1,1,http://localhost:3001/health,5,0,1
+1763506667741,7,tasks,200,OK,API 2-63,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,7,0,1
+1763506667986,10,HTTP Request,200,OK,API 1-64,text,true,,996,122,1,1,http://localhost:3001/health,10,0,2
+1763506668043,11,tasks,200,OK,API 2-64,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,11,0,3
+1763506668285,16,HTTP Request,200,OK,API 1-65,text,true,,996,122,1,1,http://localhost:3001/health,16,0,2
+1763506668343,10,tasks,200,OK,API 2-65,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,10,0,1
+1763506668583,7,HTTP Request,200,OK,API 1-66,text,true,,996,122,1,1,http://localhost:3001/health,7,0,2
+1763506668643,11,tasks,200,OK,API 2-66,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,10,0,2
+1763506668883,8,HTTP Request,200,OK,API 1-67,text,true,,996,122,1,1,http://localhost:3001/health,8,0,2
+1763506668944,8,tasks,200,OK,API 2-67,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,8,0,2
+1763506669184,8,HTTP Request,200,OK,API 1-68,text,true,,996,122,1,1,http://localhost:3001/health,8,0,2
+1763506669244,11,tasks,200,OK,API 2-68,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,11,0,3
+1763506669483,10,HTTP Request,200,OK,API 1-69,text,true,,996,122,1,1,http://localhost:3001/health,9,0,2
+1763506669544,12,tasks,200,OK,API 2-69,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,11,0,2
+1763506669782,5,HTTP Request,200,OK,API 1-70,text,true,,996,122,1,1,http://localhost:3001/health,5,0,1
+1763506669843,11,tasks,200,OK,API 2-70,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,11,0,2
+1763506670082,6,HTTP Request,200,OK,API 1-71,text,true,,996,122,1,1,http://localhost:3001/health,6,0,1
+1763506670141,8,tasks,200,OK,API 2-71,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,8,0,2
+1763506670383,7,HTTP Request,200,OK,API 1-72,text,true,,996,122,1,1,http://localhost:3001/health,6,0,2
+1763506670443,11,tasks,200,OK,API 2-72,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,11,0,0
+1763506670685,7,HTTP Request,200,OK,API 1-73,text,true,,996,122,1,1,http://localhost:3001/health,7,0,1
+1763506670744,11,tasks,200,OK,API 2-73,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,11,0,3
+1763506670983,5,HTTP Request,200,OK,API 1-74,text,true,,996,122,1,1,http://localhost:3001/health,5,0,1
+1763506671043,11,tasks,200,OK,API 2-74,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,11,0,1
+1763506671284,12,HTTP Request,200,OK,API 1-75,text,true,,996,122,1,1,http://localhost:3001/health,12,0,2
+1763506671342,11,tasks,200,OK,API 2-75,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,11,0,2
+1763506671582,9,HTTP Request,200,OK,API 1-76,text,true,,996,122,1,1,http://localhost:3001/health,9,0,2
+1763506671642,15,tasks,200,OK,API 2-76,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,14,0,2
+1763506671883,6,HTTP Request,200,OK,API 1-77,text,true,,996,122,1,1,http://localhost:3001/health,6,0,1
+1763506671943,10,tasks,200,OK,API 2-77,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,10,0,1
+1763506672183,8,HTTP Request,200,OK,API 1-78,text,true,,996,122,1,1,http://localhost:3001/health,8,0,1
+1763506672243,13,tasks,200,OK,API 2-78,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,13,0,2
+1763506672486,8,HTTP Request,200,OK,API 1-79,text,true,,996,122,1,1,http://localhost:3001/health,8,0,3
+1763506672542,15,tasks,200,OK,API 2-79,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,15,0,0
+1763506672783,6,HTTP Request,200,OK,API 1-80,text,true,,996,122,1,1,http://localhost:3001/health,6,0,1
+1763506672843,13,tasks,200,OK,API 2-80,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,13,0,1
+1763506673083,7,HTTP Request,200,OK,API 1-81,text,true,,996,122,1,1,http://localhost:3001/health,7,0,2
+1763506673145,9,tasks,200,OK,API 2-81,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,9,0,2
+1763506673382,41,HTTP Request,200,OK,API 1-82,text,true,,996,122,1,1,http://localhost:3001/health,41,0,1
+1763506673445,10,tasks,200,OK,API 2-82,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,10,0,3
+1763506673684,8,HTTP Request,200,OK,API 1-83,text,true,,996,122,1,1,http://localhost:3001/health,8,0,2
+1763506673743,11,tasks,200,OK,API 2-83,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,11,0,2
+1763506673983,5,HTTP Request,200,OK,API 1-84,text,true,,996,122,1,1,http://localhost:3001/health,5,0,1
+1763506674042,10,tasks,200,OK,API 2-84,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,10,0,2
+1763506674283,6,HTTP Request,200,OK,API 1-85,text,true,,996,122,1,1,http://localhost:3001/health,6,0,2
+1763506674343,9,tasks,200,OK,API 2-85,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,9,0,1
+1763506674587,6,HTTP Request,200,OK,API 1-86,text,true,,996,122,1,1,http://localhost:3001/health,6,0,2
+1763506674643,6,tasks,200,OK,API 2-86,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,6,0,1
+1763506674883,7,HTTP Request,200,OK,API 1-87,text,true,,996,122,1,1,http://localhost:3001/health,7,0,1
+1763506674945,11,tasks,200,OK,API 2-87,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,11,0,3
+1763506675184,10,HTTP Request,200,OK,API 1-88,text,true,,996,122,1,1,http://localhost:3001/health,10,0,3
+1763506675243,10,tasks,200,OK,API 2-88,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,10,0,2
+1763506675484,7,HTTP Request,200,OK,API 1-89,text,true,,996,122,1,1,http://localhost:3001/health,7,0,1
+1763506675542,10,tasks,200,OK,API 2-89,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,10,0,2
+1763506675783,8,HTTP Request,200,OK,API 1-90,text,true,,996,122,1,1,http://localhost:3001/health,8,0,2
+1763506675843,7,tasks,200,OK,API 2-90,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,7,0,1
+1763506676083,7,HTTP Request,200,OK,API 1-91,text,true,,996,122,1,1,http://localhost:3001/health,7,0,1
+1763506676143,11,tasks,200,OK,API 2-91,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,11,0,2
+1763506676383,8,HTTP Request,200,OK,API 1-92,text,true,,996,122,1,1,http://localhost:3001/health,8,0,2
+1763506676444,9,tasks,200,OK,API 2-92,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,9,0,1
+1763506676685,8,HTTP Request,200,OK,API 1-93,text,true,,996,122,1,1,http://localhost:3001/health,8,0,2
+1763506676746,10,tasks,200,OK,API 2-93,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,10,0,2
+1763506676982,8,HTTP Request,200,OK,API 1-94,text,true,,996,122,1,1,http://localhost:3001/health,7,0,2
+1763506677043,9,tasks,200,OK,API 2-94,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,9,0,1
+1763506677283,8,HTTP Request,200,OK,API 1-95,text,true,,996,122,1,1,http://localhost:3001/health,8,0,2
+1763506677344,14,tasks,200,OK,API 2-95,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,14,0,2
+1763506677587,7,HTTP Request,200,OK,API 1-96,text,true,,996,122,1,1,http://localhost:3001/health,7,0,3
+1763506677642,9,tasks,200,OK,API 2-96,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,9,0,1
+1763506677884,8,HTTP Request,200,OK,API 1-97,text,true,,996,122,1,1,http://localhost:3001/health,8,0,1
+1763506677942,11,tasks,200,OK,API 2-97,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,11,0,2
+1763506678185,6,HTTP Request,200,OK,API 1-98,text,true,,996,122,1,1,http://localhost:3001/health,6,0,1
+1763506678244,10,tasks,200,OK,API 2-98,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,10,0,1
+1763506678488,7,HTTP Request,200,OK,API 1-99,text,true,,996,122,1,1,http://localhost:3001/health,7,0,2
+1763506678544,12,tasks,200,OK,API 2-99,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,12,0,4
+1763506678784,8,HTTP Request,200,OK,API 1-100,text,true,,996,122,1,1,http://localhost:3001/health,8,0,2
+1763506678845,17,tasks,200,OK,API 2-100,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,17,0,5
+1763506679092,8,HTTP Request,200,OK,API 1-101,text,true,,996,122,1,1,http://localhost:3001/health,8,0,3
+1763506679144,9,tasks,200,OK,API 2-101,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,9,0,2
+1763506679387,7,HTTP Request,200,OK,API 1-102,text,true,,996,122,1,1,http://localhost:3001/health,7,0,3
+1763506679450,11,tasks,200,OK,API 2-102,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,11,0,2
+1763506679685,8,HTTP Request,200,OK,API 1-103,text,true,,996,122,1,1,http://localhost:3001/health,8,0,2
+1763506679746,12,tasks,200,OK,API 2-103,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,12,0,1
+1763506679994,7,HTTP Request,200,OK,API 1-104,text,true,,996,122,1,1,http://localhost:3001/health,7,0,2
+1763506680059,20,tasks,200,OK,API 2-104,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,20,0,5
+1763506680290,7,HTTP Request,200,OK,API 1-105,text,true,,996,122,1,1,http://localhost:3001/health,7,0,2
+1763506680353,12,tasks,200,OK,API 2-105,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,12,0,2
+1763506680595,9,HTTP Request,200,OK,API 1-106,text,true,,996,122,1,1,http://localhost:3001/health,9,0,3
+1763506680651,14,tasks,200,OK,API 2-106,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,14,0,3
+1763506680897,16,HTTP Request,200,OK,API 1-107,text,true,,996,122,1,1,http://localhost:3001/health,16,0,4
+1763506680962,29,tasks,200,OK,API 2-107,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,29,0,6
+1763506681208,10,HTTP Request,200,OK,API 1-108,text,true,,996,122,1,1,http://localhost:3001/health,10,0,2
+1763506681253,12,tasks,200,OK,API 2-108,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,12,0,2
+1763506681486,10,HTTP Request,200,OK,API 1-109,text,true,,996,122,1,1,http://localhost:3001/health,10,0,4
+1763506681547,8,tasks,200,OK,API 2-109,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,8,0,1
+1763506681794,13,HTTP Request,200,OK,API 1-110,text,true,,996,122,1,1,http://localhost:3001/health,12,0,3
+1763506681856,24,tasks,200,OK,API 2-110,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,24,0,4
+1763506682086,7,HTTP Request,200,OK,API 1-111,text,true,,996,122,1,1,http://localhost:3001/health,7,0,2
+1763506682148,20,tasks,200,OK,API 2-111,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,20,0,3
+1763506682397,6,HTTP Request,200,OK,API 1-112,text,true,,996,122,1,1,http://localhost:3001/health,6,0,1
+1763506682443,9,tasks,200,OK,API 2-112,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,9,0,2
+1763506682694,6,HTTP Request,200,OK,API 1-113,text,true,,996,122,1,1,http://localhost:3001/health,6,0,2
+1763506682759,19,tasks,200,OK,API 2-113,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,19,0,6
+1763506682991,11,HTTP Request,200,OK,API 1-114,text,true,,996,122,1,1,http://localhost:3001/health,11,0,4
+1763506683055,15,tasks,200,OK,API 2-114,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,15,0,5
+1763506683288,11,HTTP Request,200,OK,API 1-115,text,true,,996,122,1,1,http://localhost:3001/health,11,0,4
+1763506683350,23,tasks,200,OK,API 2-115,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,23,0,9
+1763506683595,6,HTTP Request,200,OK,API 1-116,text,true,,996,122,1,1,http://localhost:3001/health,6,0,1
+1763506683656,10,tasks,200,OK,API 2-116,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,10,0,2
+1763506683892,18,HTTP Request,200,OK,API 1-117,text,true,,996,122,1,1,http://localhost:3001/health,18,0,3
+1763506683954,9,tasks,200,OK,API 2-117,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,9,0,3
+1763506684188,7,HTTP Request,200,OK,API 1-118,text,true,,996,122,1,1,http://localhost:3001/health,7,0,2
+1763506684247,12,tasks,200,OK,API 2-118,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,12,0,4
+1763506684495,7,HTTP Request,200,OK,API 1-119,text,true,,996,122,1,1,http://localhost:3001/health,7,0,2
+1763506684558,13,tasks,200,OK,API 2-119,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,13,0,3
+1763506684793,11,HTTP Request,200,OK,API 1-120,text,true,,996,122,1,1,http://localhost:3001/health,11,0,3
+1763506684855,10,tasks,200,OK,API 2-120,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,10,0,4
+1763506685086,31,HTTP Request,200,OK,API 1-121,text,true,,996,122,1,1,http://localhost:3001/health,31,0,22
+1763506685147,19,tasks,200,OK,API 2-121,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,19,0,6
+1763506685399,12,HTTP Request,200,OK,API 1-122,text,true,,996,122,1,1,http://localhost:3001/health,12,0,5
+1763506685442,21,tasks,200,OK,API 2-122,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,21,0,2
+1763506685695,7,HTTP Request,200,OK,API 1-123,text,true,,996,122,1,1,http://localhost:3001/health,7,0,1
+1763506685756,9,tasks,200,OK,API 2-123,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,9,0,1
+1763506685990,5,HTTP Request,200,OK,API 1-124,text,true,,996,122,1,1,http://localhost:3001/health,5,0,2
+1763506686053,10,tasks,200,OK,API 2-124,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,10,0,1
+1763506686287,6,HTTP Request,200,OK,API 1-125,text,true,,996,122,1,1,http://localhost:3001/health,6,0,2
+1763506686343,11,tasks,200,OK,API 2-125,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,11,0,1
+1763506686586,6,HTTP Request,200,OK,API 1-126,text,true,,996,122,1,1,http://localhost:3001/health,6,0,2
+1763506686642,10,tasks,200,OK,API 2-126,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,10,0,1
+1763506686885,10,HTTP Request,200,OK,API 1-127,text,true,,996,122,1,1,http://localhost:3001/health,10,0,3
+1763506686943,8,tasks,200,OK,API 2-127,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,8,0,1
+1763506687185,8,HTTP Request,200,OK,API 1-128,text,true,,996,122,1,1,http://localhost:3001/health,8,0,3
+1763506687245,9,tasks,200,OK,API 2-128,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,9,0,2
+1763506687483,8,HTTP Request,200,OK,API 1-129,text,true,,996,122,1,1,http://localhost:3001/health,8,0,3
+1763506687544,9,tasks,200,OK,API 2-129,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,9,0,1
+1763506687783,6,HTTP Request,200,OK,API 1-130,text,true,,996,122,1,1,http://localhost:3001/health,6,0,1
+1763506687841,10,tasks,200,OK,API 2-130,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,10,0,1
+1763506688084,9,HTTP Request,200,OK,API 1-131,text,true,,996,122,1,1,http://localhost:3001/health,9,0,1
+1763506688142,14,tasks,200,OK,API 2-131,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,14,0,2
+1763506688392,7,HTTP Request,200,OK,API 1-132,text,true,,996,122,1,1,http://localhost:3001/health,7,0,1
+1763506688442,9,tasks,200,OK,API 2-132,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,9,0,2
+1763506688681,10,HTTP Request,200,OK,API 1-133,text,true,,996,122,1,1,http://localhost:3001/health,10,0,3
+1763506688743,11,tasks,200,OK,API 2-133,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,11,0,2
+1763506688981,5,HTTP Request,200,OK,API 1-134,text,true,,996,122,1,1,http://localhost:3001/health,5,0,1
+1763506689042,5,tasks,200,OK,API 2-134,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,5,0,1
+1763506689284,9,HTTP Request,200,OK,API 1-135,text,true,,996,122,1,1,http://localhost:3001/health,9,0,2
+1763506689342,11,tasks,200,OK,API 2-135,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,11,0,2
+1763506689584,14,HTTP Request,200,OK,API 1-136,text,true,,996,122,1,1,http://localhost:3001/health,13,0,1
+1763506689643,9,tasks,200,OK,API 2-136,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,9,0,1
+1763506689882,7,HTTP Request,200,OK,API 1-137,text,true,,996,122,1,1,http://localhost:3001/health,7,0,2
+1763506689943,9,tasks,200,OK,API 2-137,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,9,0,0
+1763506690182,20,HTTP Request,200,OK,API 1-138,text,true,,996,122,1,1,http://localhost:3001/health,20,0,2
+1763506690244,10,tasks,200,OK,API 2-138,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,10,0,2
+1763506690483,12,HTTP Request,200,OK,API 1-139,text,true,,996,122,1,1,http://localhost:3001/health,12,0,2
+1763506690542,9,tasks,200,OK,API 2-139,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,9,0,1
+1763506690791,9,HTTP Request,200,OK,API 1-140,text,true,,996,122,1,1,http://localhost:3001/health,9,0,1
+1763506690843,12,tasks,200,OK,API 2-140,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,12,0,2
+1763506691084,5,HTTP Request,200,OK,API 1-141,text,true,,996,122,1,1,http://localhost:3001/health,5,0,1
+1763506691143,11,tasks,200,OK,API 2-141,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,11,0,2
+1763506691383,10,HTTP Request,200,OK,API 1-142,text,true,,996,122,1,1,http://localhost:3001/health,10,0,2
+1763506691443,10,tasks,200,OK,API 2-142,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,10,0,1
+1763506691682,7,HTTP Request,200,OK,API 1-143,text,true,,996,122,1,1,http://localhost:3001/health,7,0,1
+1763506691742,8,tasks,200,OK,API 2-143,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,8,0,1
+1763506691982,5,HTTP Request,200,OK,API 1-144,text,true,,996,122,1,1,http://localhost:3001/health,5,0,1
+1763506692042,7,tasks,200,OK,API 2-144,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,7,0,1
+1763506692286,7,HTTP Request,200,OK,API 1-145,text,true,,996,122,1,1,http://localhost:3001/health,7,0,1
+1763506692343,11,tasks,200,OK,API 2-145,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,11,0,1
+1763506692583,7,HTTP Request,200,OK,API 1-146,text,true,,996,122,1,1,http://localhost:3001/health,7,0,1
+1763506692642,11,tasks,200,OK,API 2-146,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,10,0,2
+1763506692884,8,HTTP Request,200,OK,API 1-147,text,true,,996,122,1,1,http://localhost:3001/health,8,0,2
+1763506692942,15,tasks,200,OK,API 2-147,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,15,0,2
+1763506693181,12,HTTP Request,200,OK,API 1-148,text,true,,996,122,1,1,http://localhost:3001/health,12,0,2
+1763506693242,31,tasks,200,OK,API 2-148,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,31,0,1
+1763506693483,7,HTTP Request,200,OK,API 1-149,text,true,,996,122,1,1,http://localhost:3001/health,7,0,2
+1763506693545,10,tasks,200,OK,API 2-149,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,10,0,1
+1763506693784,9,HTTP Request,200,OK,API 1-150,text,true,,996,122,1,1,http://localhost:3001/health,9,0,3
+1763506693843,9,tasks,200,OK,API 2-150,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,9,0,2
+1763506694084,8,HTTP Request,200,OK,API 1-151,text,true,,996,122,1,1,http://localhost:3001/health,8,0,1
+1763506694142,10,tasks,200,OK,API 2-151,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,10,0,2
+1763506694383,7,HTTP Request,200,OK,API 1-152,text,true,,996,122,1,1,http://localhost:3001/health,7,0,2
+1763506694441,7,tasks,200,OK,API 2-152,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,7,0,1
+1763506694682,10,HTTP Request,200,OK,API 1-153,text,true,,996,122,1,1,http://localhost:3001/health,10,0,2
+1763506694741,21,tasks,200,OK,API 2-153,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,21,0,3
+1763506694982,11,HTTP Request,200,OK,API 1-154,text,true,,996,122,1,1,http://localhost:3001/health,11,0,1
+1763506695041,10,tasks,200,OK,API 2-154,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,10,0,2
+1763506695284,11,HTTP Request,200,OK,API 1-155,text,true,,996,122,1,1,http://localhost:3001/health,11,0,2
+1763506695342,8,tasks,200,OK,API 2-155,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,8,0,2
+1763506695585,17,HTTP Request,200,OK,API 1-156,text,true,,996,122,1,1,http://localhost:3001/health,17,0,1
+1763506695643,10,tasks,200,OK,API 2-156,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,9,0,2
+1763506695883,9,HTTP Request,200,OK,API 1-157,text,true,,996,122,1,1,http://localhost:3001/health,9,0,1
+1763506695944,17,tasks,200,OK,API 2-157,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,17,0,2
+1763506696183,5,HTTP Request,200,OK,API 1-158,text,true,,996,122,1,1,http://localhost:3001/health,5,0,2
+1763506696243,9,tasks,200,OK,API 2-158,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,9,0,2
+1763506696484,11,HTTP Request,200,OK,API 1-159,text,true,,996,122,1,1,http://localhost:3001/health,11,0,4
+1763506696542,10,tasks,200,OK,API 2-159,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,10,0,2
+1763506696781,8,HTTP Request,200,OK,API 1-160,text,true,,996,122,1,1,http://localhost:3001/health,8,0,2
+1763506696842,11,tasks,200,OK,API 2-160,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,11,0,2
+1763506697082,7,HTTP Request,200,OK,API 1-161,text,true,,996,122,1,1,http://localhost:3001/health,7,0,2
+1763506697142,12,tasks,200,OK,API 2-161,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,12,0,2
+1763506697384,12,HTTP Request,200,OK,API 1-162,text,true,,996,122,1,1,http://localhost:3001/health,12,0,2
+1763506697442,8,tasks,200,OK,API 2-162,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,8,0,1
+1763506697682,6,HTTP Request,200,OK,API 1-163,text,true,,996,122,1,1,http://localhost:3001/health,6,0,1
+1763506697741,10,tasks,200,OK,API 2-163,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,10,0,2
+1763506697984,9,HTTP Request,200,OK,API 1-164,text,true,,996,122,1,1,http://localhost:3001/health,9,0,2
+1763506698042,11,tasks,200,OK,API 2-164,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,11,0,2
+1763506698283,8,HTTP Request,200,OK,API 1-165,text,true,,996,122,1,1,http://localhost:3001/health,8,0,2
+1763506698343,9,tasks,200,OK,API 2-165,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,9,0,2
+1763506698584,9,HTTP Request,200,OK,API 1-166,text,true,,996,122,1,1,http://localhost:3001/health,9,0,2
+1763506698644,11,tasks,200,OK,API 2-166,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,11,0,2
+1763506698883,8,HTTP Request,200,OK,API 1-167,text,true,,996,122,1,1,http://localhost:3001/health,8,0,1
+1763506698943,13,tasks,200,OK,API 2-167,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,13,0,1
+1763506699185,7,HTTP Request,200,OK,API 1-168,text,true,,996,122,1,1,http://localhost:3001/health,7,0,2
+1763506699248,16,tasks,200,OK,API 2-168,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,16,0,9
+1763506699484,8,HTTP Request,200,OK,API 1-169,text,true,,996,122,1,1,http://localhost:3001/health,8,0,2
+1763506699542,16,tasks,200,OK,API 2-169,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,16,0,9
+1763506699783,8,HTTP Request,200,OK,API 1-170,text,true,,996,122,1,1,http://localhost:3001/health,8,0,2
+1763506699843,9,tasks,200,OK,API 2-170,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,9,0,1
+1763506700085,6,HTTP Request,200,OK,API 1-171,text,true,,996,122,1,1,http://localhost:3001/health,6,0,1
+1763506700143,10,tasks,200,OK,API 2-171,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,10,0,2
+1763506700382,5,HTTP Request,200,OK,API 1-172,text,true,,996,122,1,1,http://localhost:3001/health,5,0,1
+1763506700443,9,tasks,200,OK,API 2-172,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,9,0,1
+1763506700682,8,HTTP Request,200,OK,API 1-173,text,true,,996,122,1,1,http://localhost:3001/health,8,0,1
+1763506700744,11,tasks,200,OK,API 2-173,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,11,0,2
+1763506700982,10,HTTP Request,200,OK,API 1-174,text,true,,996,122,1,1,http://localhost:3001/health,10,0,1
+1763506701042,11,tasks,200,OK,API 2-174,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,10,0,2
+1763506701283,7,HTTP Request,200,OK,API 1-175,text,true,,996,122,1,1,http://localhost:3001/health,7,0,1
+1763506701341,12,tasks,200,OK,API 2-175,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,12,0,2
+1763506701583,10,HTTP Request,200,OK,API 1-176,text,true,,996,122,1,1,http://localhost:3001/health,10,0,2
+1763506701641,8,tasks,200,OK,API 2-176,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,8,0,1
+1763506701883,5,HTTP Request,200,OK,API 1-177,text,true,,996,122,1,1,http://localhost:3001/health,5,0,1
+1763506701940,9,tasks,200,OK,API 2-177,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,9,0,2
+1763506702183,13,HTTP Request,200,OK,API 1-178,text,true,,996,122,1,1,http://localhost:3001/health,13,0,4
+1763506702242,8,tasks,200,OK,API 2-178,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,8,0,1
+1763506702483,6,HTTP Request,200,OK,API 1-179,text,true,,996,122,1,1,http://localhost:3001/health,6,0,1
+1763506702542,27,tasks,200,OK,API 2-179,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,27,0,2
+1763506702783,7,HTTP Request,200,OK,API 1-180,text,true,,996,122,1,1,http://localhost:3001/health,7,0,2
+1763506702843,10,tasks,200,OK,API 2-180,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,10,0,2
+1763506703084,8,HTTP Request,200,OK,API 1-181,text,true,,996,122,1,1,http://localhost:3001/health,7,0,1
+1763506703147,11,tasks,200,OK,API 2-181,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,11,0,2
+1763506703383,6,HTTP Request,200,OK,API 1-182,text,true,,996,122,1,1,http://localhost:3001/health,6,0,1
+1763506703447,11,tasks,200,OK,API 2-182,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,11,0,2
+1763506703682,11,HTTP Request,200,OK,API 1-183,text,true,,996,122,1,1,http://localhost:3001/health,11,0,2
+1763506703747,10,tasks,200,OK,API 2-183,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,10,0,2
+1763506703982,7,HTTP Request,200,OK,API 1-184,text,true,,996,122,1,1,http://localhost:3001/health,7,0,2
+1763506704043,10,tasks,200,OK,API 2-184,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,10,0,2
+1763506704283,8,HTTP Request,200,OK,API 1-185,text,true,,996,122,1,1,http://localhost:3001/health,8,0,2
+1763506704345,11,tasks,200,OK,API 2-185,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,11,0,2
+1763506704585,9,HTTP Request,200,OK,API 1-186,text,true,,996,122,1,1,http://localhost:3001/health,9,0,1
+1763506704643,9,tasks,200,OK,API 2-186,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,9,0,1
+1763506704884,3,HTTP Request,200,OK,API 1-187,text,true,,996,122,1,1,http://localhost:3001/health,3,0,1
+1763506704942,6,tasks,200,OK,API 2-187,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,6,0,1
+1763506705184,10,HTTP Request,200,OK,API 1-188,text,true,,996,122,1,1,http://localhost:3001/health,10,0,2
+1763506705243,9,tasks,200,OK,API 2-188,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,8,0,2
+1763506705483,5,HTTP Request,200,OK,API 1-189,text,true,,996,122,1,1,http://localhost:3001/health,5,0,1
+1763506705542,7,tasks,200,OK,API 2-189,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,7,0,2
+1763506705789,13,HTTP Request,200,OK,API 1-190,text,true,,996,122,1,1,http://localhost:3001/health,13,0,3
+1763506705844,11,tasks,200,OK,API 2-190,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,11,0,2
+1763506706083,7,HTTP Request,200,OK,API 1-191,text,true,,996,122,1,1,http://localhost:3001/health,7,0,1
+1763506706144,8,tasks,200,OK,API 2-191,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,8,0,1
+1763506706383,9,HTTP Request,200,OK,API 1-192,text,true,,996,122,1,1,http://localhost:3001/health,9,0,2
+1763506706452,11,tasks,200,OK,API 2-192,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,10,0,1
+1763506706684,10,HTTP Request,200,OK,API 1-193,text,true,,996,122,1,1,http://localhost:3001/health,10,0,3
+1763506706743,11,tasks,200,OK,API 2-193,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,11,0,3
+1763506706984,6,HTTP Request,200,OK,API 1-194,text,true,,996,122,1,1,http://localhost:3001/health,6,0,1
+1763506707043,10,tasks,200,OK,API 2-194,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,10,0,2
+1763506707284,8,HTTP Request,200,OK,API 1-195,text,true,,996,122,1,1,http://localhost:3001/health,8,0,2
+1763506707342,12,tasks,200,OK,API 2-195,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,12,0,3
+1763506707583,8,HTTP Request,200,OK,API 1-196,text,true,,996,122,1,1,http://localhost:3001/health,8,0,2
+1763506707642,10,tasks,200,OK,API 2-196,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,10,0,1
+1763506707884,10,HTTP Request,200,OK,API 1-197,text,true,,996,122,1,1,http://localhost:3001/health,10,0,2
+1763506707944,12,tasks,200,OK,API 2-197,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,12,0,2
+1763506708192,8,HTTP Request,200,OK,API 1-198,text,true,,996,122,1,1,http://localhost:3001/health,8,0,1
+1763506708244,10,tasks,200,OK,API 2-198,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,10,0,2
+1763506708483,10,HTTP Request,200,OK,API 1-199,text,true,,996,122,1,1,http://localhost:3001/health,10,0,2
+1763506708543,11,tasks,200,OK,API 2-199,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,11,0,3
+1763506708784,9,HTTP Request,200,OK,API 1-200,text,true,,996,122,1,1,http://localhost:3001/health,9,0,2
+1763506708843,13,tasks,200,OK,API 2-200,text,true,,943,196,1,1,http://host.docker.internal:3001/api/tasks,13,0,3
